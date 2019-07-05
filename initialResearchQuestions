@@ -1,0 +1,4 @@
+Some initial questions...
+
+1) Do we want to support stack iteration (dynamically adding more boards to configuration)?
+2) Do we need board parity for stack and command board?
